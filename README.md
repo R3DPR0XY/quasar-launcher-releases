@@ -11,6 +11,16 @@ com temas personalizáveis.
 
 Este repositório existe apenas para distribuir os instaladores do launcher.
 
+## Propósito
+
+O Quasar nasceu para quem **não tem um PC dos melhores e mesmo assim quer jogar Minecraft**, inclusive com mods.
+
+Muita gente desiste de jogar com mods porque o jogo trava, demora para abrir ou nem roda num notebook ou PC mais simples.
+O objetivo do Quasar é resolver isso: um launcher leve, que gasta o mínimo do seu computador, e que ajuda a deixar o
+jogo o mais otimizado possível para o seu hardware, sem você precisar entender de Java, RAM ou configurações avançadas.
+
+Em resumo: **Minecraft com mods, rodando bem, para todo mundo.**
+
 ## Como baixar e instalar
 
 1. Abra a página de [Releases](../../releases/latest).
@@ -45,7 +55,8 @@ respeitando as regras de distribuição definidas por cada autor.
 
 Quasar Launcher is a free, lightweight Minecraft: Java Edition launcher for Windows. It manages isolated instances
 (Vanilla, Fabric, Quilt) and installs mods, modpacks, resource packs and shaders from Modrinth and CurseForge through
-their official APIs. This repository only hosts the official installers; the source code is proprietary.
+their official APIs. Its goal is to let people with modest PCs and notebooks enjoy modded Minecraft running smoothly.
+This repository only hosts the official installers; the source code is proprietary.
 Not affiliated with Mojang, Microsoft, Modrinth or CurseForge/Overwolf.
 
 ## Licença
