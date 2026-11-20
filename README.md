@@ -30,6 +30,18 @@ Em resumo: **Minecraft com mods, rodando bem, para todo mundo.**
 
 Requisitos: Windows 10 ou 11 (64 bits) e uma conexão com a internet para baixar o jogo e os conteúdos.
 
+## Segurança
+
+> ⚠️ **Baixe o Quasar Launcher apenas por este GitHub oficial.** Qualquer cópia de outro site, link, vídeo ou
+> grupo é perigosa: pode conter vírus e roubar sua conta. O único endereço oficial é
+> **https://github.com/R3DPR0XY/quasar-launcher-releases/releases**.
+
+- ✅ **Só contas oficiais.** O Quasar funciona apenas com conta Microsoft e Minecraft original.
+- 🔒 **Login seguro pela Microsoft.** Você entra pelo site oficial da Microsoft, no seu navegador. Sua senha nunca é
+  digitada no Quasar nem passa por ele; os dados da conta ficam guardados no Gerenciador de Credenciais do Windows.
+- ✍️ **Atualizações assinadas.** O launcher só instala atualizações com a assinatura digital do autor.
+- 🧾 **Downloads conferidos.** Os arquivos do jogo são verificados antes do uso.
+
 ## Atualizações
 
 O Quasar se atualiza sozinho. Poucos segundos depois de abrir, ele verifica se há uma versão nova (sem atrapalhar
@@ -57,6 +69,8 @@ Quasar Launcher is a free, lightweight Minecraft: Java Edition launcher for Wind
 (Vanilla, Fabric, Quilt) and installs mods, modpacks, resource packs and shaders from Modrinth and CurseForge through
 their official APIs. Its goal is to let people with modest PCs and notebooks enjoy modded Minecraft running smoothly.
 This repository only hosts the official installers; the source code is proprietary.
+**Only download Quasar Launcher from this official GitHub.** Copies from any other site may contain viruses.
+Official accounts only: sign-in happens on Microsoft's official website and your password never passes through Quasar.
 Not affiliated with Mojang, Microsoft, Modrinth or CurseForge/Overwolf.
 
 ## Licença
